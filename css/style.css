@@ -1,0 +1,21 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+main div:nth-child(1){
+    background-color: lightblue;
+    border: 1px solid black;
+}
+main div:nth-child(2){
+    background-color: lightcoral;
+    border: 1px solid black;
+}
+main div:nth-child(3){
+    background-color: lightgreen;
+    border: 1px solid black;
+}
+main{
+    display: flex;
+}
+div{
+    width: 100%;
+}
